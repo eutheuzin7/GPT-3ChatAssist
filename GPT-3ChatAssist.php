@@ -1,5 +1,16 @@
 <?php
 
+function exibir() {
+    echo "╔══════════════════════╗" . PHP_EOL;
+    echo "║                      ║" . PHP_EOL;
+    echo "║  GPT-3ChatAssist     ║" . PHP_EOL;
+    echo "║                      ║" . PHP_EOL;
+    echo "╚══════════════════════╝" . PHP_EOL;
+}
+
+system('clear'); 
+exibir();
+
 // Função para enviar a pergunta para a API do OpenAI e obter a resposta
 function obterResposta($pergunta, $contexto) {
     $url = 'https://api.openai.com/v1/chat/completions';

@@ -10,7 +10,8 @@ O **GPT-3ChatAssist** é um chatbot que roda no Termux e utiliza a tecnologia **
 
 VERSION | UPDATE
 :--------- | :------:
-1.0 | 23/04/2023
+1.0 | 23/04/2023 03:40 am
+1.1 | 23/04/2023 08:50 pm
 
 # Requisitos.
 - key openai (obrigatório)*
@@ -39,4 +40,4 @@ VERSION | UPDATE
 ## Equipe <3
 > Criador/Dev - [@EUTHEUZIN](https://t.me/EUTHEUZIN)
 
-> key para teste do script - [@ANEXUS](https://t.me/ANEXUSSTORE)
+> key para uso do script - [@ANEXUS](https://t.me/ANEXUSSTORE)

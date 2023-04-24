@@ -37,7 +37,7 @@ VERSION | UPDATE
 ```
 
 ## Ajude o projeto
-> ** Ajude o projeto ficar on-line, doe key openai para manter o projeto online** - [ajude](https://t.me/EUTHEUZIN)
+> Ajude o projeto ficar on-line, doe key openai para manter o projeto online - [ajude](https://t.me/EUTHEUZIN)
 
 ### Equipe <3
 > Criador/Dev - [@EUTHEUZIN](https://t.me/EUTHEUZIN)

@@ -69,7 +69,7 @@ exibir();
 // Função para enviar a pergunta para a API do OpenAI e obter a resposta
 function obterResposta($pergunta, $contexto) {
     $url = 'https://api.openai.com/v1/chat/completions';
-    $apiKey = 'SUA_KEY_AQUI'; // Substitua pela sua chave de API
+    $apiKey = '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'; // Substitua pela sua chave de API
     $modelo = 'gpt-3.5-turbo';
 
     $messages = array();

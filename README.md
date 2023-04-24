@@ -13,8 +13,8 @@ VERSION | UPDATE
 1.0 | 23/04/2023 03:40 am
 1.1 | 23/04/2023 08:50 pm
 
-# Requisitos.
-- key openai (obrigatório)*
+# Requisitos
+- key openai
 
 # instalação
 ```sh

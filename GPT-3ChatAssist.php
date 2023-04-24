@@ -1,4 +1,5 @@
 <?php
+system('clear'); 
 
 // exibir ajuda
 function exibirAjuda()
@@ -102,7 +103,7 @@ function obterResposta($pergunta, $contexto) {
     if (isset($resposta['choices'][0]['message']['content'])) {
         return $resposta['choices'][0]['message']['content'];
     } else {
-        return 'Erro ao obter resposta do assistente.';
+        return 'Key offline, doe uma para manter o projeto on';
     }
 }
 

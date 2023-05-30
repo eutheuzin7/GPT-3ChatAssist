@@ -14,7 +14,7 @@ VERSION | UPDATE
 1.1 | 23/04/2023 08:50 pm
 
 # Requisitos
-- key openai
+- key openai obrigatório
 
 # instalação
 ```sh
@@ -42,4 +42,4 @@ VERSION | UPDATE
 ### Equipe <3
 > Criador/Dev - [@EUTHEUZIN](https://t.me/EUTHEUZIN)
 
-> key para uso do script - [@ANEXUS](https://t.me/ANEXUSSTORE)
+> key para desenvolvimento do script - [@ANEXUS](https://t.me/ANEXUSSTORE)

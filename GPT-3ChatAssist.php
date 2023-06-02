@@ -70,7 +70,7 @@ exibir();
 // Função para enviar a pergunta para a API do OpenAI e obter a resposta
 function obterResposta($pergunta, $contexto) {
     $url = 'https://api.openai.com/v1/chat/completions';
-    $apiKey = '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'; // Substitua pela sua chave de API
+    $apiKey = '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'; // Substitua pela sua key
     $modelo = 'gpt-3.5-turbo';
 
     $messages = array();
@@ -103,11 +103,11 @@ function obterResposta($pergunta, $contexto) {
     if (isset($resposta['choices'][0]['message']['content'])) {
         return $resposta['choices'][0]['message']['content'];
     } else {
-        return 'Key offline, doe uma para manter o projeto on';
+        return 'Key offline';
     }
 }
 
-// Loop para interação com o usuário
+
 $contexto = array("Você: Olá!", "Assistente: Olá! Como posso te ajudar?");
 while (true) {
     echo "\033[32mVocê: \033[0m";

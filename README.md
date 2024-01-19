@@ -41,5 +41,3 @@ VERSION | UPDATE
 
 ### Equipe <3
 > Criador/Dev - [@EUTHEUZIN](https://t.me/EUTHEUZIN)
-
-> key para desenvolvimento do script - [@ANEXUS](https://t.me/ANEXUSSTORE)

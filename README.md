@@ -11,7 +11,7 @@ VERSION | UPDATE
 # Requisitos
 - key openai obrigatório
 
-# instalação
+# instalação e execução
 ```sh
 > apt update && apt upgrade -y
 ```
@@ -31,8 +31,11 @@ VERSION | UPDATE
 > php GPT-3ChatAssist.php
 ```
 
+
 ## Ajude o projeto
 > Ajude o projeto ficar on-line, doe key openai para manter o projeto online - [ajude](https://t.me/EUTHEUZIN)
 
-### Equipe <3
-> Criador/Dev - [@EUTHEUZIN](https://t.me/EUTHEUZIN)
+### Criador/Dev
+- [@EUTHEUZIN](https://t.me/EUTHEUZIN)
+
+> </br><h3 align="center"><i>Termux, cmd, Powershell, Bash ✔️</i></h3>
